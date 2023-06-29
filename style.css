@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/*First Section*/
+.main .first-section{
+    background-image: url(src/hero.png);
+    background-position: bottom;
+}
+
+#bottom-message{
+    background-image: url(src/message-background.png);
+}
+
+.section-7{
+    background-image: url(src/Rectangle\ 4.png);
+}
